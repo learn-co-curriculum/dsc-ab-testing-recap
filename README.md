@@ -14,9 +14,9 @@ You will be able to:
 
 ## A Brief Review
 
-When conducting statistical tests, there's no simply no substitute for critical thinking. As you've seen, there are numerous considerations from formulating appropriate hypotheses to thinking about the context of the problem itself. While the techniques presented are extremely powerful if properly employed, you've also seen how each technique comes with its own assumptions, and ignoring these can invalidate results. Similarly, how the test is structured can lead to widely different results. 
+When conducting statistical tests, there's simply no substitute for critical thinking. As you've seen, there are numerous considerations from formulating appropriate hypotheses to thinking about the context of the problem itself. While the techniques presented are extremely powerful if properly employed, you've also seen how each technique comes with its own assumptions, and ignoring these can invalidate results. Similarly, how the test is structured can lead to widely different results. 
 
-There are also additional statistical tests not touched upon here. To date, your primary method has been conducting t-tests. This is apt the most common statistical test used in practice and is very effective at comparing averages (of any metric) between groups. You've also seen how ANOVA can generalize this process to multiple groups. If you wish to continue to strenghten your knowledge of other statistical tests, take a look at some of the resources below.
+There are also additional statistical tests not touched upon here. To date, your primary method has been conducting t-tests. This the most common statistical test used in practice and is very effective at comparing averages (of any metric) between groups. You've also seen how ANOVA can generalize this process to multiple groups. If you wish to continue to strengthen your knowledge of other statistical tests, take a look at some of the resources below.
 
 ## Additional Resources
 
