@@ -5,12 +5,6 @@
 
 In this section, you got a chance to further practice hypothesis testing with some real-world scenarios. Here's a brief recap of some of the key takeaways from the section.
 
-## Objectives
-
-You will be able to:
-
-* Critically think about statistical test design
-
 
 ## A Brief Review
 
@@ -20,8 +14,10 @@ There are also additional statistical tests not touched upon here. To date, your
 
 ## Additional Resources
 
-[Choosing Statistical Tests] (https://stats.idre.ucla.edu/other/mult-pkg/whatstat/)
+[Choosing Statistical Tests](https://stats.idre.ucla.edu/other/mult-pkg/whatstat/)
+
 [How to choose the right statistical test?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3116565/)
+
 [Hypothesis Testing](https://newonlinecourses.science.psu.edu/stat414/node/290/)
 
 ## Summary
