@@ -14,11 +14,11 @@ There are also additional statistical tests not touched upon here. To date, your
 
 ## Additional Resources
 
-[Choosing Statistical Tests](https://stats.idre.ucla.edu/other/mult-pkg/whatstat/)
+- [Choosing Statistical Tests](https://stats.idre.ucla.edu/other/mult-pkg/whatstat/)
 
-[How to choose the right statistical test?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3116565/)
+- [How to choose the right statistical test?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3116565/)
 
-[Hypothesis Testing](https://newonlinecourses.science.psu.edu/stat414/node/290/)
+- [Hypothesis Testing](https://newonlinecourses.science.psu.edu/stat414/node/290/)
 
 ## Summary
 
