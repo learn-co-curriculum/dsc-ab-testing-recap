@@ -18,8 +18,6 @@ There are also additional statistical tests not touched upon here. To date, your
 
 - [How to choose the right statistical test?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3116565/)
 
-- [Hypothesis Testing](https://newonlinecourses.science.psu.edu/stat414/node/290/)
-
 ## Summary
 
 Well done! You've not only learned about a variety of statistical tests and the theory behind them, but you've now also put these techniques into practice in order to carry out hypothesis testing!
